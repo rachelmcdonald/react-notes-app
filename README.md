@@ -1,3 +1,7 @@
+A notes application written in JavaScript and React that allows the user to create, modify and delete notes.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
